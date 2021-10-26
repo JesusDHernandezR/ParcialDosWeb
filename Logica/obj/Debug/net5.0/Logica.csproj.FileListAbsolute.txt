@@ -1,0 +1,17 @@
+C:\Users\marij\Documents\8VO SEMESTRE-2021-2\PWEB\ParcialDos\Logica\bin\Debug\net5.0\Logica.deps.json
+C:\Users\marij\Documents\8VO SEMESTRE-2021-2\PWEB\ParcialDos\Logica\bin\Debug\net5.0\Logica.dll
+C:\Users\marij\Documents\8VO SEMESTRE-2021-2\PWEB\ParcialDos\Logica\bin\Debug\net5.0\ref\Logica.dll
+C:\Users\marij\Documents\8VO SEMESTRE-2021-2\PWEB\ParcialDos\Logica\bin\Debug\net5.0\Logica.pdb
+C:\Users\marij\Documents\8VO SEMESTRE-2021-2\PWEB\ParcialDos\Logica\bin\Debug\net5.0\Datos.dll
+C:\Users\marij\Documents\8VO SEMESTRE-2021-2\PWEB\ParcialDos\Logica\bin\Debug\net5.0\Entidad.dll
+C:\Users\marij\Documents\8VO SEMESTRE-2021-2\PWEB\ParcialDos\Logica\bin\Debug\net5.0\Entidad.pdb
+C:\Users\marij\Documents\8VO SEMESTRE-2021-2\PWEB\ParcialDos\Logica\bin\Debug\net5.0\Datos.pdb
+C:\Users\marij\Documents\8VO SEMESTRE-2021-2\PWEB\ParcialDos\Logica\obj\Debug\net5.0\Logica.csproj.AssemblyReference.cache
+C:\Users\marij\Documents\8VO SEMESTRE-2021-2\PWEB\ParcialDos\Logica\obj\Debug\net5.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marij\Documents\8VO SEMESTRE-2021-2\PWEB\ParcialDos\Logica\obj\Debug\net5.0\Logica.AssemblyInfoInputs.cache
+C:\Users\marij\Documents\8VO SEMESTRE-2021-2\PWEB\ParcialDos\Logica\obj\Debug\net5.0\Logica.AssemblyInfo.cs
+C:\Users\marij\Documents\8VO SEMESTRE-2021-2\PWEB\ParcialDos\Logica\obj\Debug\net5.0\Logica.csproj.CoreCompileInputs.cache
+C:\Users\marij\Documents\8VO SEMESTRE-2021-2\PWEB\ParcialDos\Logica\obj\Debug\net5.0\Logica.csproj.CopyComplete
+C:\Users\marij\Documents\8VO SEMESTRE-2021-2\PWEB\ParcialDos\Logica\obj\Debug\net5.0\Logica.dll
+C:\Users\marij\Documents\8VO SEMESTRE-2021-2\PWEB\ParcialDos\Logica\obj\Debug\net5.0\ref\Logica.dll
+C:\Users\marij\Documents\8VO SEMESTRE-2021-2\PWEB\ParcialDos\Logica\obj\Debug\net5.0\Logica.pdb

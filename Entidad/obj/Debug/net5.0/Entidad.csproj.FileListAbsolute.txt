@@ -1,0 +1,12 @@
+C:\Users\marij\Documents\8VO SEMESTRE-2021-2\PWEB\ParcialDos\Entidad\bin\Debug\net5.0\Entidad.deps.json
+C:\Users\marij\Documents\8VO SEMESTRE-2021-2\PWEB\ParcialDos\Entidad\bin\Debug\net5.0\Entidad.dll
+C:\Users\marij\Documents\8VO SEMESTRE-2021-2\PWEB\ParcialDos\Entidad\bin\Debug\net5.0\ref\Entidad.dll
+C:\Users\marij\Documents\8VO SEMESTRE-2021-2\PWEB\ParcialDos\Entidad\bin\Debug\net5.0\Entidad.pdb
+C:\Users\marij\Documents\8VO SEMESTRE-2021-2\PWEB\ParcialDos\Entidad\obj\Debug\net5.0\Entidad.csproj.AssemblyReference.cache
+C:\Users\marij\Documents\8VO SEMESTRE-2021-2\PWEB\ParcialDos\Entidad\obj\Debug\net5.0\Entidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marij\Documents\8VO SEMESTRE-2021-2\PWEB\ParcialDos\Entidad\obj\Debug\net5.0\Entidad.AssemblyInfoInputs.cache
+C:\Users\marij\Documents\8VO SEMESTRE-2021-2\PWEB\ParcialDos\Entidad\obj\Debug\net5.0\Entidad.AssemblyInfo.cs
+C:\Users\marij\Documents\8VO SEMESTRE-2021-2\PWEB\ParcialDos\Entidad\obj\Debug\net5.0\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\marij\Documents\8VO SEMESTRE-2021-2\PWEB\ParcialDos\Entidad\obj\Debug\net5.0\Entidad.dll
+C:\Users\marij\Documents\8VO SEMESTRE-2021-2\PWEB\ParcialDos\Entidad\obj\Debug\net5.0\ref\Entidad.dll
+C:\Users\marij\Documents\8VO SEMESTRE-2021-2\PWEB\ParcialDos\Entidad\obj\Debug\net5.0\Entidad.pdb
